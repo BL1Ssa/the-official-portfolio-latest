@@ -41,7 +41,7 @@ const Header = () => {
          bg-gray-800 text-white flex items-center gap-2">
             Contact me <Image src={assets.right_arrow_white} alt="" className="w-4"/>
         </a>
-        <a href="/sample-resume.pdf" download className="px-10 py-3 border rounded-full
+        <a href="/BrandonLimSantosa_CV_Academy2026.pdf" download className="px-10 py-3 border rounded-full
          border-gray-500 flex items-center gap-2">
             The Resume <Image src={assets.download_icon} alt="" className="w-4"/>
         </a>
